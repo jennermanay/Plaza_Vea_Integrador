@@ -1,0 +1,15 @@
+target/
+build/
+dist/
+nbproject/private/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+logs/
+.env
+.DS_Store
+Thumbs.db
+# Mantén credenciales reales fuera del repositorio.
+src/main/resources/application.properties
