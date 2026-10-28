@@ -74,15 +74,5 @@ Con costo `80`, precio propio `120` y externo `105`:
 - margen simulado: 23.81 %
 - genera alerta: sí
 
-## GitHub
-
-```powershell
-git init
-git branch -M main
-git add .
-git commit -m "chore: estructura inicial del proyecto"
-git remote add origin https://github.com/TU_USUARIO/monitoreo-precios-plaza-vea.git
-git push -u origin main
-```
 
 > No subas `application.properties` con contraseñas reales.
